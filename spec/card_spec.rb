@@ -12,23 +12,26 @@ end
 
 describe "suits" do
     before do
-    @deck = Deck.new
+    @mydeck = Deck.new
   end
   it "should have 4 suits" do
-#    @suit.length.must_equal 4
+    @mydeck.suit.length.must_equal 4
   end
 
   it "should have a diamonds suit" do
-  #  @suit.must_include "diamonds"
+    @mydeck.suit.must_include "diamonds"
   end
 
   it "should have a hearts suit" do
+    @mydeck.suit.must_include "hearts"
   end
 
   it "should have a spades suit" do
+    @mydeck.suit.must_include "spades"
   end
 
-  it "should have a clubs suite" do
+  it "should have a clubs suit" do
+    @mydeck.suit.must_include "clubs"
   end
 
 end
