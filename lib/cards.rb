@@ -1,6 +1,5 @@
 class Deck
-  attr_accessor :suit, :number
-  attr_reader :suit, :number
+  attr_accessor :suit
 
   def initialize
     @deck = []
