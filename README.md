@@ -14,3 +14,5 @@ https://github.com/dada5714/deck_of_cards/tree/deck_build
 and lots of help from classmates and TAs!
 
 [ ![Codeship Status for DeirdreAllison/deck-of-cards](https://www.codeship.io/projects/7376ef40-2a88-0132-cfc4-7ec533542f1c/status)](https://www.codeship.io/projects/38283)
+
+License: MIT [http://deirdre.mit-license.org/](http://deirdre.mit-license.org/)
